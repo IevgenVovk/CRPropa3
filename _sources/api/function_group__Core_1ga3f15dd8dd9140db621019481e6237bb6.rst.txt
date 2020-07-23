@@ -1,0 +1,13 @@
+.. _exhale_function_group__Core_1ga3f15dd8dd9140db621019481e6237bb6:
+
+Function crpropa::initHelicalTurbulence
+=======================================
+
+- Defined in :ref:`file_include_crpropa_GridTurbulence.h`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: crpropa::initHelicalTurbulence(ref_ptr<Grid3f>, double, double, double, double, int, double)

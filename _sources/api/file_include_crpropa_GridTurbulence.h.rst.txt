@@ -1,0 +1,62 @@
+
+.. _file_include_crpropa_GridTurbulence.h:
+
+File GridTurbulence.h
+=====================
+
+|exhale_lsh| :ref:`Parent directory <dir_include_crpropa>` (``include/crpropa``)
+
+.. |exhale_lsh| unicode:: U+021B0 .. UPWARDS ARROW WITH TIP LEFTWARDS
+
+
+Generate a turbulent field on a grid and related functions. 
+ 
+
+.. contents:: Contents
+   :local:
+   :backlinks: none
+
+Definition (``include/crpropa/GridTurbulence.h``)
+-------------------------------------------------
+
+
+.. toctree::
+   :maxdepth: 1
+
+   program_listing_file_include_crpropa_GridTurbulence.h.rst
+
+
+
+Detailed Description
+--------------------
+
+This file contains a number of functions related to scalar and vector grids (Grid.h). 
+
+
+
+
+
+
+
+
+Namespaces
+----------
+
+
+- :ref:`namespace_crpropa`
+
+
+Functions
+---------
+
+
+- :ref:`exhale_function_group__Core_1ga22d6bb7eeecd0de28751b3613a95c73d`
+
+- :ref:`exhale_function_group__Core_1ga3f15dd8dd9140db621019481e6237bb6`
+
+- :ref:`exhale_function_group__Core_1gace7aa01ebcd1da236b318806747d3d18`
+
+- :ref:`exhale_function_group__Core_1gabb5aa0243d8dc0205983fdf7608200cd`
+
+- :ref:`exhale_function_group__Core_1ga79636b9ebe8a83dbdd16a895c7a1e316`
+
